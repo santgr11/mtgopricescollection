@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="67469" Quantity="5" Sideboard="false" Name="Adamant Will" />
+  <Cards CatID="67472" Quantity="1" Sideboard="false" Name="Aven Sentry" />
+  <Cards CatID="67471" Quantity="7" Sideboard="false" Name="Aven Sentry" />
+  <Cards CatID="67473" Quantity="7" Sideboard="false" Name="Baird, Steward of Argive" />
+  <Cards CatID="67475" Quantity="5" Sideboard="false" Name="Benalish Honor Guard" />
+  <Cards CatID="67477" Quantity="2" Sideboard="false" Name="Benalish Marshal" />
+  <Cards CatID="67479" Quantity="7" Sideboard="false" Name="Blessed Light" />  
+</Deck>
